@@ -1,3 +1,8 @@
 .db
-.log
-/bin
+*.log
+*/bin
+*/target
+*.class
+*.iml
+*.xml
+*/.idea

@@ -1,8 +1,8 @@
 .db
-*.log
-*/bin
-*/target
-*.class
-*.iml
-*.xml
-*/.idea
+**.log
+**/bin
+**/target
+**.class
+**.iml
+**.xml
+**/.idea
